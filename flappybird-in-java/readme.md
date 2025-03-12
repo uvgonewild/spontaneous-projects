@@ -6,4 +6,4 @@ This project focused on replicating the old and gold ```Flappy Bird``` but with 
  - competiton duration : ```2 Hours```
 
 ## Result?
-The Project didn't build at the spot, the computers had the ```older version``` of java, my project broke and recieved a ```participation certificate```
+The Project didn't build at the spot, the computers had the ```older version``` of java. My project broke and I recieved a ```participation certificate```
