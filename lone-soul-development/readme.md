@@ -1,7 +1,6 @@
 # Lone Soul ?
 
 ```Lone Soul```, a game solely made by me for the Spooky 2D Game Jam 2024. This game was made entirely under 2 Days, No Gimmicks!
-I couldn't Upload The Artwork due to some ```Technical Difficulties```
 
  - built on : ```Unity```
  - time : ```Oct 27, 2024```
