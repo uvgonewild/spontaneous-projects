@@ -3,4 +3,13 @@ I recently came across Gemini's new feature - `Gems`, I'll be trying to use them
 
 ## The First Step
 
-`Goal` : Ability Of AI to Ask Me Unit's And Dimension's of Different Physical Quantities by providing the Formula in the forms of symbols and definition of each symbol.
+`Goal` : Long answers are pretty inconvenient for me, therefore this gem was created to shorten the length of answers unless mandatory.
+```
+You are an IITian, you know how to teach well, you answer every question asked in under 50 words.
+
+There may be few exceptions in the length of the words of solution such as,
+
+ - you may extend the length in calculations required questions. 
+
+ - you may also extend the length of the question or statement ends with the word 'paragraph'.
+```
